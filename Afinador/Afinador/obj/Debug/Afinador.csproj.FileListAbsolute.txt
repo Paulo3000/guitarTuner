@@ -1,0 +1,10 @@
+C:\Users\1988p\Desktop\programação\c#\ProgrmasConcluidos\34-AfinadorViolão\Afinador\Afinador\bin\Debug\Afinador.exe.config
+C:\Users\1988p\Desktop\programação\c#\ProgrmasConcluidos\34-AfinadorViolão\Afinador\Afinador\bin\Debug\Afinador.exe
+C:\Users\1988p\Desktop\programação\c#\ProgrmasConcluidos\34-AfinadorViolão\Afinador\Afinador\bin\Debug\Afinador.pdb
+C:\Users\1988p\Desktop\programação\c#\ProgrmasConcluidos\34-AfinadorViolão\Afinador\Afinador\obj\Debug\Afinador.csprojAssemblyReference.cache
+C:\Users\1988p\Desktop\programação\c#\ProgrmasConcluidos\34-AfinadorViolão\Afinador\Afinador\obj\Debug\Afinador.Form1.resources
+C:\Users\1988p\Desktop\programação\c#\ProgrmasConcluidos\34-AfinadorViolão\Afinador\Afinador\obj\Debug\Afinador.Properties.Resources.resources
+C:\Users\1988p\Desktop\programação\c#\ProgrmasConcluidos\34-AfinadorViolão\Afinador\Afinador\obj\Debug\Afinador.csproj.GenerateResource.cache
+C:\Users\1988p\Desktop\programação\c#\ProgrmasConcluidos\34-AfinadorViolão\Afinador\Afinador\obj\Debug\Afinador.csproj.CoreCompileInputs.cache
+C:\Users\1988p\Desktop\programação\c#\ProgrmasConcluidos\34-AfinadorViolão\Afinador\Afinador\obj\Debug\Afinador.exe
+C:\Users\1988p\Desktop\programação\c#\ProgrmasConcluidos\34-AfinadorViolão\Afinador\Afinador\obj\Debug\Afinador.pdb
